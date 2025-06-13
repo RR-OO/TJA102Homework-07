@@ -1,4 +1,4 @@
-package hw1;
+package hw01;
 
 // 請設計一隻Java程式，計算200顆蛋共是幾打幾顆？(一打為12顆)
 public class HW01_02 {

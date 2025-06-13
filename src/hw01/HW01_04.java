@@ -1,4 +1,4 @@
-package hw1;
+package hw01;
 
 // 請定義一個常數為3.1415(圓周率)，並計算半徑為5的圓面積與圓周長
 public class HW01_04 {

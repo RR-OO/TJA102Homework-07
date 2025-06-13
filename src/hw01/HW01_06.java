@@ -1,4 +1,4 @@
-package hw1;
+package hw01;
 
 // 請寫一隻程式，利用System.out.println()印出以下三個運算式結果：
 // 5 + 5
